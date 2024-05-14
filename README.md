@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=on99darin&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=on99darin&layout=compact&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/on99darin/count.svg)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=on99darin&theme=dracula)
+
+
+
 
 <!--
 **on99darin/on99darin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
