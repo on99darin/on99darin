@@ -5,7 +5,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/on99darin/count.svg)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=on99darin&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=on99darin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
